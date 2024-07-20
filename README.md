@@ -1,2 +1,2 @@
-![Crypto](public/crypto1.png)
-![Crypto](public/youtube2.png)
+![Crypto](public/Crypto1.png)
+![Crypto](public/Crypto2.png)
